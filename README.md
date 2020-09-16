@@ -1,18 +1,18 @@
 # GADS Leader Board
 
 ## Start Activity
-![Start Activity](screeshots/start_screen.png)
+![Start Activity](screenshots/start_screen.jpg)
 ## Learning Leader Tab
-![Learning Leader Tab](screeshots/learning_leader.png)
+![Learning Leader Tab](screenshots/learning_leader.jpg)
 ## Skill IQ Leader Tab
-![Skill IQ Leader Tab](screeshots/skill_iq_leader.png)
+![Skill IQ Leader Tab](screenshots/skill_iq_leader.jpg)
 ## Submit Activity
-![Submit Activity](screeshots/submit_screen.png)
+![Submit Activity](screenshots/submit_screen.jpg)
 ## Confirm Popup
-![Confirm Popup](screeshots/confirm_popup.png)
+![Confirm Popup](screenshots/confirm_popup.jpg)
 ## Success Popup
-![Success Popup](screeshots/success_popup.png)
+![Success Popup](screenshots/success_popup.jpg)
 ## Error Popup
-![Error Popoup](screeshots/error_popup.png)
+![Error Popoup](screenshots/error_popup.jpg)
 ## App Icon
-![App Icon](screeshots/icon.png)
+![App Icon](screenshots/icon.jpg)
